@@ -1,0 +1,13 @@
+{
+	"current": "Some Preset",
+  "presets": {
+    "Default": {
+      "body_text": "#00ffff",
+      "heading_font": "poppins"
+    },
+    "Preset 2": {
+			"body_text": "#ff00ff",
+			"heading_font": "sans-serif"
+		}
+  }
+}
