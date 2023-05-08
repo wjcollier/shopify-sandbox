@@ -1,0 +1,9 @@
+{
+  "global": {
+    "hello": "hello"
+  },
+  "sections": {
+    "hello": "Body text"
+  }
+  
+}
