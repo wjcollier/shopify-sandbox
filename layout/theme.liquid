@@ -13,7 +13,9 @@
 
   <body>
      <h1>Hello Billy</h1>
-    
+    {% render 'article-card' article_title: "1st Dev Server" %}
+    {% render 'article-card' article_title: "2nd Article" %}
+    {% render 'article-card' article_title: "3rd Article" %}
     
     {{ content_for_layout }}
     
